@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f252ab20-9f8b-4e68-b1ec-a01b5e71f35a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Project/Hand-Distance-Measurement+Game/HandTrackingModule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/Hand-Distance-Measurement+Game/Utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/Hand-Distance-Measurement+Game/game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/Hand-Distance-Measurement+Game/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Face-Recognition/Attendance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Face-Recognition/Basic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Face-Recognition/Image_Attendance/BillGates.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Face-Recognition/Image_Attendance/ElonMusk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/Face-Recognition/Image_Attendance/ElonMuskTest.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,14 +35,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Computer-Vision&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Computer-Vision/Project/Face-Recognition",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Computer-Vision\Project\Face-Recognition" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Computer-Vision" />
