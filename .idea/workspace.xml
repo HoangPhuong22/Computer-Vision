@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f252ab20-9f8b-4e68-b1ec-a01b5e71f35a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Project/Face-Recognition/Attendance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/Face-Recognition/Basic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/Face-Recognition/Image_Attendance/BillGates.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/Face-Recognition/Image_Attendance/ElonMusk.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/Face-Recognition/Image_Attendance/ElonMuskTest.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/ParkingSpaces/ParkingSpacesPicker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/ParkingSpaces/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/ParkingSpaces/Utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/ParkingSpaces/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -40,12 +42,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Computer-Vision/Project/Face-Recognition",
+    "last_opened_file_path": "D:/Computer-Vision/Project/ParkingSpaces",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Computer-Vision\Project\ParkingSpaces" />
+      <recent name="D:\Computer-Vision\Project\Face-Recognition\Image_Attendance" />
       <recent name="D:\Computer-Vision\Project\Face-Recognition" />
     </key>
   </component>
