@@ -60,7 +60,8 @@ class PoseDetection():
 def main():
     height = 640
     width = 480
-    cap = cv2.VideoCapture('D:\Computer-Vision\Module\PoseDetectionModule\Video\M10.mp4')
+    # cap = cv2.VideoCapture(0) #WEBCAM
+    cap = cv2.VideoCapture('D:\Computer-Vision\Video-Test\M10.mp4')
     poseDetector = PoseDetection()
     while True:
         success, image = cap.read()

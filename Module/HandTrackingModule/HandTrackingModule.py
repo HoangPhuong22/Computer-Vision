@@ -68,8 +68,8 @@ class HandDetectionModule():
                 #draw
                 if draw : 
                     # self.mpDraw.draw_landmarks(image, handLms, self.mpHands.HAND_CONNECTIONS)
-                    cv2.rectangle(image, (box[0] - 20, box[1] - 20), (box[0] + box[2] + 20, box[1] + box[3] + 20), (91, 189, 43), 2)
-                    cv2.putText(image, myHand['type'], (box[0] - 20, box[1] - 30), cv2.FONT_HERSHEY_PLAIN, 2, (91, 189, 43), 2)
+                    cv2.rectangle(image, (box[0] - 20, box[1] - 20), (box[0] + box[2] + 20, box[1] + box[3] + 20), (0, 255, 0), 2)
+                    cv2.putText(image, myHand['type'], (box[0] - 20, box[1] - 30), cv2.FONT_HERSHEY_PLAIN, 2, (0, 255, 255), 2)
         if draw:
             return allHands, image
         else : return allHands
@@ -112,8 +112,8 @@ class HandDetectionModule():
         return image
           
 def main():
-    
-    cap = cv2.VideoCapture(0)
+    # cap = cv2.VideoCapture(0) WEBCAM
+    cap = cv2.VideoCapture('D:\Computer-Vision\Video-Test\Video1.mp4')
     detector = HandDetectionModule(min_detectionCon = 0.8, maxhands = 3)
     while True:
         success, image = cap.read()

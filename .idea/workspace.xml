@@ -5,9 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f252ab20-9f8b-4e68-b1ec-a01b5e71f35a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Project/RemoveBG/SelfiSegmentationModule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project/RemoveBG/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module/FaceDetectionModule/FaceDetecterModule.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module/FaceDetectionModule/FaceDetecterModule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module/FaceMeshDetection/FaceMeshDetectionModule.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module/FaceMeshDetection/FaceMeshDetectionModule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module/HandTrackingModule/HandTrackingModule.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module/HandTrackingModule/HandTrackingModule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module/PoseDetectionModule/PoseDetectionModule.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module/PoseDetectionModule/PoseDetectionModule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module/PoseDetectionModule/Video/M10.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project/Face-Recognition/Attendance.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Face-Recognition/Attendance.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +58,7 @@
       <recent name="D:\Computer-Vision\Project\Face-Recognition" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Main">
     <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Computer-Vision" />
       <option name="INTERPRETER_OPTIONS" value="" />

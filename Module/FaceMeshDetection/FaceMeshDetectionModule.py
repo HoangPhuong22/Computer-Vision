@@ -37,7 +37,8 @@ class FaceMeshDetector():
         return image, faces
 
 def main():
-    cap = cv2.VideoCapture(0)
+    # cap = cv2.VideoCapture(0) # WEBCAM
+    cap = cv2.VideoCapture('D:\Computer-Vision\Video-Test\Video2.mp4')
     detector = FaceMeshDetector(maxFace=2)
     while True:
         success, image = cap.read()
